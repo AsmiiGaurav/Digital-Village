@@ -43,6 +43,8 @@ We tackled two main challenges:
 
 ## 🧠 Methodology
 
+![ET Estimation Pipeline](ET_data_pipeline.png)
+
 ### 1. 📏 Area-Weighted ET Calculation (Spatial Resolution Handling)
 Problem: Multiple plots fall within one pixel due to coarse resolution.
 

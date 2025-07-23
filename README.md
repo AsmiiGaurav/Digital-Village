@@ -15,6 +15,10 @@ and on-ground water levels to generate actionable insights for the farming commu
 
 ## 📌 Objective
 
+## 🌿 Why Measure Evapotranspiration (ET)?
+
+Evapotranspiration (ET) is the sum of water lost from the soil through evaporation and from plants through transpiration. Measuring ET is essential for understanding how much water crops actually use. By analyzing ET patterns, farmers and policymakers can plan irrigation more precisely—applying just the right amount of water at the right time. This not only saves water but also improves crop health, reduces energy costs, and promotes sustainable agriculture. Especially in water-scarce regions, ET-based irrigation planning is key to increasing efficiency and supporting climate-resilient farming.
+
 This task aimed to estimate **daily evapotranspiration (ET)** for **30 agricultural plots** across Punjab using satellite data from **FAO WaPOR** and ground-level water usage data. 
 
 We tackled two main challenges:

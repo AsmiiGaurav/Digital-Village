@@ -48,7 +48,7 @@ We tackled two main challenges:
 ## 🧠 Methodology
 
 <p align="center">
-  <img src="ET_data_pipeline.png" alt="ET Estimation Flowchart" width="300"/>
+  <img src="pipeline.png" alt="ET Estimation Flowchart" width="300"/>
 </p>
 
 

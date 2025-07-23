@@ -43,7 +43,12 @@ We tackled two main challenges:
 
 ## 🧠 Methodology
 
-![ET Estimation Pipeline](ET_data_pipeline.png)
+## 🧭 Methodology Flowchart
+
+<p align="center">
+  <img src="ET_data_pipeline.png" alt="ET Estimation Flowchart" width="600"/>
+</p>
+
 
 ### 1. 📏 Area-Weighted ET Calculation (Spatial Resolution Handling)
 Problem: Multiple plots fall within one pixel due to coarse resolution.
